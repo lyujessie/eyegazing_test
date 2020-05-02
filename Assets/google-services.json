@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194721661507",
+    "firebase_url": "https://vr-all-presence.firebaseio.com",
+    "project_id": "vr-all-presence",
+    "storage_bucket": "vr-all-presence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194721661507:android:df5e6f791ad74e55f58af6",
+        "android_client_info": {
+          "package_name": "com.berkeley.vrallpresence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194721661507-lk4ojdsq9ma2kp67nettnjdshc7lm4ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.berkeley.vrallpresence",
+            "certificate_hash": "95180bebee597aa1c4631c414f0b57a2ec3806ef"
+          }
+        },
+        {
+          "client_id": "194721661507-2te2jec5f3i3n79fpe3tgdv290efmfk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzjhFLUemqXTy6yBzM5pK1CKh7Gx41SXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194721661507-2te2jec5f3i3n79fpe3tgdv290efmfk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
